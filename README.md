@@ -113,11 +113,11 @@ Six different potential customer profiles have been identified. Through the anal
 ## Instructions  <a name="instructions"></a>
 The project should be run using exactly the same environment in which it was created.
 
-- Project environment can be replicated using 'pf_leadscoring.yml' file which was created during the set up phase of the project. It can be found in the folder '01_Documents'.
-- Copy 'pf_leadscoring.yml' file to the directory and using the terminal or anaconda prompt execute:
-    > conda env create --file pf_leadscoring.yml --name project_name
+- Project environment can be replicated using 'pf_riskscoring.yml' file which was created during the set up phase of the project. It can be found in the folder '01_Documents'.
+- Copy 'pf_riskscoring.yml' file to the directory and using the terminal or anaconda prompt execute:
+    > conda env create --file pf_riskscoring.yml --name project_name
 
 By other hand, remember to update the `project_path` variable of the notebooks to the path where you have replicated the project.
 
 ## Licensing <a name="licensing"></a>
-The data set, licensing, and other descriptive information is available [here](https://www.kaggle.com/code/ashydv/lead-scoring-logistic-regression).
+The data set, licensing, and other descriptive information is available at [LendingClub website](https://www.lendingclub.com/).
