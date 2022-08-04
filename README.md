@@ -34,7 +34,9 @@ Creating an advanced analytical asset based on machine learning predictive model
 
 ### Expected financial loss model and web application <a name="expected-loss-model"></a>
 In order to estimate the expected financial loss (EL) associated to a certain loan application, three risk models have been developed:
-#### Probability of default model (PD):
+1. **Probability of default model (PD):** The purpose of this model is to predict the probability that a given borrower will default.
+2. **Exposure at default model (EAD):** The objective of this model is to predict the percentage of the loan that a given borrower has not yet repaid when a default occurs.
+3. **Loss given default model (LGD):** The objective of this model is to predict the percentage of the principal that will not be possible to recover from a loan that has been defaulted on.
 
 In order to get the most value out of the developed machine learning model, a prototype web application has been designed so employees can start using them to make practical decisions. This web app collect, on the one hand, the internal data that the company has for each lead (time spent on the website, number of visits, origin…) and on the other hand, the information provided by the lead itself through a web form.
 
