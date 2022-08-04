@@ -38,7 +38,7 @@ In order to estimate the expected financial loss (EL) associated to a certain lo
 2. **Exposure at default model (EAD):** The objective of this model is to predict the percentage of the loan that a given borrower has not yet repaid when a default occurs.
 3. **Loss given default model (LGD):** The objective of this model is to predict the percentage of the principal that will not be possible to recover from a loan that has been defaulted on.
 
-Once the probability of default, exposure at default and loss given default models have been developed, the expected loss (EL) for each new loan application is obtained by simply combining the predictions of these models and the principal amount of the loan as discussed in the methodology section.
+Once the probability of default, exposure at default and loss given default models have been developed, the expected loss (EL) for each new loan application is obtained by simply combining the predictions of these models and the principal amount of the loan as follows:
 
 > EL($) = PD(%) · Principal($) · EAD(%) · LGD(%)
 
