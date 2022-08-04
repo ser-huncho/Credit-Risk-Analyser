@@ -1,4 +1,4 @@
-# Lead scoring and segmentation for an online education company
+# Credit risk scoring for a online lending company
 
 [![Esta es una imagen](/01_Documents/00_Images/webapp2.png)](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
 
@@ -13,17 +13,14 @@
 - [License](#licensing)
 
 ## Introduction <a name="introduction"></a>
-The client is an online education company which sells an online course to industry professionals.
+The client is an online platform which specialises in lending various types of loans to urban customers. Borrowers can easily access lower interest rate loans through a fast online interface.
 
-The company markets their course on different websites and search engines. Once professionals who are interested in the course land on the website, they might browse the course or fill up a form for the course or watch some videos. When these people fill up a form providing their email address or phone number, they are classified to be a lead. Moreover, the company also gets leads through past referrals.
+When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss. The company aims to identify such ‘risky’ applicants and their associated loan’s expected loss in order to utilise this knowledge for managing its economic capital, portfolio and risk assessment.
 
-Once these leads are acquired, employees from the sales team start making calls, writing emails, etc. Through this process, some of the leads get converted while most do not, with the inefficiency of this process impacting company’s benefits.
-
-- [See a detailed technical explanation of project here.](https://pedrocorma.github.io/project/2leadscoring/)
+- [See a detailed technical explanation of project here.](https://pedrocorma.github.io/project/1riskscoring/)
 
 ## Objectives <a name="objectives"></a>
-1. Analysing historical leads information to propose potential actions that increase overall company turnover.
-2. Creating advanced analytical assets such as a predictive lead scoring and customer segmentation algorithms that helps sales team to identify both potential customers who are most likely to convert into paying customers and leads who are not economically profitable to manage.
+Creating an advanced analytical asset based on machine learning predictive models to estimate the expected financial loss of each new customer-loan binomial.
 
 ## Project results  <a name="project-results"></a>
 ### Actionable initiatives derived from exploratory data analysis <a name="actionable-initiatives"></a>
