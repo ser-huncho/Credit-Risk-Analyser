@@ -58,7 +58,7 @@ In order to get the most value out of the developed machine learning model, a pr
 
 [**Launch Credit Risk Analyzer Web App!**](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
 
-[![Esta es una imagen](/01_Documents/00_Images/web_app_1.png)](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
+[![Esta es una imagen](/01_Documents/00_Images/webapp1.png)](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
 
 ### Lead segmentation model <a name="lead-segmentation-model"></a>
 Six different potential customer profiles have been identified. Through the analysis of these customer segments, a series of insights have been derived that lead to the following actionable initiatives:
