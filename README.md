@@ -5,8 +5,8 @@
 - [Introduction](#introduction)
 - [Objectives](#objectives)
 - [Project results](#project-results)
-    - [Business Insights](#business-insights)
     - [Predictive expected financial loss model + web application](#expected-loss-model)
+    - [Business Insights](#business-insights)
 - [Project structure](#project-structure)
 - [Instructions](#instructions)
 - [License](#licensing)
@@ -22,16 +22,6 @@ When the company receives a loan application, the company has to make a decision
 Creating an advanced analytical asset based on machine learning predictive models to estimate the expected financial loss of each new customer-loan binomial.
 
 ## Project results  <a name="project-results"></a>
-### Business Insights derived from exploratory data analysis <a name="business-insights"></a>
-#### Borrowers:
-- Borrowers with poorer credit scores tend to borrow larger amounts and have lower annual incomes than clients with higher credit scores, thus paying higher monthly installments and higher interest rates.
-- One third of all customers have been employed for more than 10 years. The job title of most clients is unknown. Of the clients who do provide this information, the top three most frequent jobs are ‘Teacher’, ‘Manager’ and ‘Owner’.
-- The score feature appears to be predictive of loan status: the percentage of loans charged off increases as the borrower’s credit score worsens while the percentage of fully paid loans increases as the borrower’s credit score increases.
-- Three main groups can be clearly distinguished: those borrowers who used less than 20% of the credit available on their credit card, another group of borrowers have used between 20 and 80 percent of the available credit on their credit card, and a last group of borrower who have used more than 80% of their available credit on their credit card.
-#### Loans
-- In general, 60-month loans tend to have a higher percentage of late payments and charge-offs.
-- The percentage of loans charged off for ‘moving’ and ‘small business’ purposes is slightly higher (16%-17%) than the average for the rest of loan purposes (around 11%).
-
 ### Expected financial loss model and web application <a name="expected-loss-model"></a>
 In order to estimate the expected financial loss (EL) associated to a certain loan application, three risk models have been developed:
 1. **Probability of default model (PD):** The purpose of this model is to predict the probability that a given borrower will default.
@@ -47,6 +37,16 @@ Finally, in order to get the most value out of the developed machine learning mo
 [**Launch Credit Risk Analyzer Web App!**](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
 
 [![Esta es una imagen](/01_Documents/00_Images/webapp1.png)](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
+
+### Business Insights derived from exploratory data analysis <a name="business-insights"></a>
+#### Borrowers:
+- Borrowers with poorer credit scores tend to borrow larger amounts and have lower annual incomes than clients with higher credit scores, thus paying higher monthly installments and higher interest rates.
+- One third of all customers have been employed for more than 10 years. The job title of most clients is unknown. Of the clients who do provide this information, the top three most frequent jobs are ‘Teacher’, ‘Manager’ and ‘Owner’.
+- The score feature appears to be predictive of loan status: the percentage of loans charged off increases as the borrower’s credit score worsens while the percentage of fully paid loans increases as the borrower’s credit score increases.
+- Three main groups can be clearly distinguished: those borrowers who used less than 20% of the credit available on their credit card, another group of borrowers have used between 20 and 80 percent of the available credit on their credit card, and a last group of borrower who have used more than 80% of their available credit on their credit card.
+#### Loans
+- In general, 60-month loans tend to have a higher percentage of late payments and charge-offs.
+- The percentage of loans charged off for ‘moving’ and ‘small business’ purposes is slightly higher (16%-17%) than the average for the rest of loan purposes (around 11%).
 
 ## Project structure <a name="project-structure"></a>
 - :file_folder: 01_Documents
