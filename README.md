@@ -74,9 +74,10 @@ Six different potential customer profiles have been identified. Through the anal
 ## Project structure <a name="project-structure"></a>
 - :file_folder: 01_Documents
   - Contains basic project files:
-    - `Leads Data Dictionary.pdf`: feature-level metadata.
-    - `pf_leadscoring.yml`: project environment file.
+    - `Feature_dictionary.xlsx`: feature-level metadata.
+    - `pf_riskscoring.yml`: project environment file.
     - `Development stage_Data Transformation Design.xlsx`: support file for designing feature transformation processes.
+  - :file_folder: 00_Images: Contains project images.
     - `Production stage_Processes Design`: support file for designing final production script.
 - :file_folder: 02_Data
   - :file_folder: 01_Originals
