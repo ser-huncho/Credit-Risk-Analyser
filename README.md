@@ -33,7 +33,8 @@ Creating an advanced analytical asset based on machine learning predictive model
 - The percentage of loans charged off for ‘moving’ and ‘small business’ purposes is slightly higher (16%-17%) than the average for the rest of loan purposes (around 11%).
 
 ### Expected financial loss model and web application <a name="expected-loss-model"></a>
-
+In order to estimate the expected financial loss (EL) associated to a certain loan application, three risk models have been developed:
+#### Probability of default model (PD):
 
 In order to get the most value out of the developed machine learning model, a prototype web application has been designed so employees can start using them to make practical decisions. This web app collect, on the one hand, the internal data that the company has for each lead (time spent on the website, number of visits, origin…) and on the other hand, the information provided by the lead itself through a web form.
 
