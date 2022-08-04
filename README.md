@@ -42,7 +42,7 @@ Once the probability of default, exposure at default and loss given default mode
 
 > EL($) = PD(%) · Principal($) · EAD(%) · LGD(%)
 
-In order to get the most value out of the developed machine learning model, a prototype web application has been designed so employees can start using them to make practical decisions. This web app collect, on the one hand, the internal data that the company has for each lead (time spent on the website, number of visits, origin…) and on the other hand, the information provided by the lead itself through a web form.
+Finally, in order to get the most value out of the developed machine learning model, a prototype web application has been designed so employees can start using them to make practical decisions. This web app collects, on the one hand, the internal data that the company has for each client and on the other hand, the information provided by the borrower itself through a loan application.
 
 [**Launch Credit Risk Analyzer Web App!**](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
 
