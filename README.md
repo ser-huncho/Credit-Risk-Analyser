@@ -16,7 +16,7 @@ The client is an online platform which specialises in lending various types of l
 
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss. The company aims to identify such ‘risky’ applicants and their associated loan’s expected loss in order to utilise this knowledge for managing its economic capital, portfolio and risk assessment.
 
-- [See a detailed technical explanation of project here.](https://pedrocorma.github.io/project/1riskscoring/)
+- [See a detailed technical explanation of the project here.](https://pedrocorma.github.io/project/1riskscoring/)
 
 ## Objectives <a name="objectives"></a>
 Creating an advanced analytical asset based on machine learning predictive models to estimate the expected financial loss of each new customer-loan binomial.
