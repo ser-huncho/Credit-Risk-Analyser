@@ -1,6 +1,6 @@
 category-encoders==2.5.0
 janitor==0.1.1
-numpy==1.21.5
+numpy==1.26.0
 pandas==2.1.0
 pyjanitor==0.22.0
 streamlit==1.10.0
