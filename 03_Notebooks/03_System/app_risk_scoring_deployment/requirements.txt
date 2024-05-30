@@ -5,4 +5,4 @@ pandas==2.1.0
 pyjanitor==0.22.0
 streamlit==1.10.0
 streamlit_echarts==0.4.0
-scikit_learn==1.0.2
+scikit-learn==1.1.2
